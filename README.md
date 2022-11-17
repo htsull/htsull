@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Connect with me:
-<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+[<img alt="LinkedIn"  height="26" width="26" src="https://cdn.simpleicons.org/linkedin/#0A66C2" style="padding-right:10px;"/>](https://www.linkedin.com/in/b-sully/)
 
 
 
