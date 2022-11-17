@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Connect with me:
-<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="padding-right:10px;" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+
+
 
 &nbsp;&nbsp;
 
