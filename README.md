@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @htsull
+# 👋 Hi, I’m Berthony Sully aka @htsull.
+
 - 👀 I’m interested in data science, more specifically data visualization and ML with R and Python
 - 🌱 I’m currently studying data science at Paris 1 Pantheon-Sorbonne University
 - 💞️ I’m looking to collaborate on ML/DL projects.
@@ -12,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 [<img alt="LinkedIn"  height="26" width="26" src="https://cdn.simpleicons.org/linkedin/#0A66C2" style="padding-right:10px;"/>](https://www.linkedin.com/in/b-sully/)
-
 &nbsp;&nbsp;
 
 
@@ -43,9 +43,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-
-<!--START_SECTION:activity-->
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -53,5 +50,14 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+<details>
+### <summary>:zap: Recent Activity</summary>
 
-[website]: https://github.com/codeSTACKr/codeSTACKr/tree/master
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+<!--END_SECTION:activity-->
+  </details>
