@@ -45,21 +45,10 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+ :zap: GitHub Stats
 
   <img align="left" alt="htsull's GitHub Stats" src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&count_private=true&show_icons=true&theme=transparent" />
 
 </details>
 
-<br />
-<br />
 
-
-
-<details>
-<summary>:zap: Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-
-
-  </details>
