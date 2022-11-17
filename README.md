@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-### <summary>:zap: Recent Activity</summary>
+<summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
