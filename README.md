@@ -44,11 +44,11 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<details>
+
  :zap: GitHub Stats
 
   <img align="left" alt="htsull's GitHub Stats" src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&count_private=true&show_icons=true&theme=transparent" />
 
-</details>
+
 
 
