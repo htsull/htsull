@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Berthony Sully aka @htsull.
+# 👋 Hi, I’m Berthony Sully aka Sly.
 
 - 👀 I’m interested in data science, more specifically data visualization and ML with R and Python
 - 🌱 I’m currently studying data science at Paris 1 Pantheon-Sorbonne University
