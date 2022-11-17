@@ -12,10 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Connect with me:
-[<img alt="LinkedIn"  height="26" width="26" src="https://cdn.simpleicons.org/linkedin/#0A66C2" style="padding-right:10px;"/>](https://www.linkedin.com/in/b-sully/)
-&nbsp;&nbsp;
+[<img align="left" alt="LinkedIn"  height="26" width="26" src="https://cdn.simpleicons.org/linkedin/#0A66C2" style="padding-right:10;"/>](https://www.linkedin.com/in/b-sully/)
+[<img align="left" alt="Instagram"  height="26" width="26" src="https://cdn.simpleicons.org/instagram/#E4405F" style="padding-right:10;"/>](https://www.instagram.com/htsull_/)
 
-
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -51,11 +52,14 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <br />
+<br />
+
+
 
 <details>
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
   </details>
