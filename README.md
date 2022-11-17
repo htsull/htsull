@@ -11,11 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Connect with me:
+<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" style="padding-right:10px;" />
 
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/github-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 
 
 
