@@ -23,9 +23,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding-right:10px;" />
-<img align="left" alt="SAS" width="26px" src="https://www.liblogo.com/img-logo/sa7135saef-sas-logo-sas-logo-icon-in-vector-logo.png" style="padding-right:10px;" />
+<img align="left" alt="SAS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/31166555/202423758-ffb4e897-94de-4ada-b0a9-fb75a6dc11e2.png" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
