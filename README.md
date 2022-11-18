@@ -14,7 +14,9 @@
 [<img align="left" alt="Twitter" height="32" style="padding-right:10;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=blue&style=for-the-badge&logo=twitter&logoColor=white">](https://mobile.twitter.com/htsull_)
 
 
+[![](<img align="left" alt="GitHub" height="32" style="padding-right:10;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white">)](https://www.github.com/htsull/)
 
+[![GitHub](https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white#gh-dark-mode-only)](https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white#gh-dark-mode-only)
 
 <br />
 <br />
@@ -52,7 +54,7 @@
 <br />
 <br />
 
- :zap: GitHub Stats
+ :zap: **GitHub Stats**
 
 [![Sly's GitHub stats-Dark](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)
 [![Sly's GitHub stats-Light](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)
