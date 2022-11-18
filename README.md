@@ -20,7 +20,7 @@
 
 ### ***Now using*** : 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-[!<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png#gh-dark-mode-only" style="padding-right:10px;"/>] 
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding-right:10px;" />
 <img align="left" alt="SAS" width="26px" src="https://www.liblogo.com/img-logo/sa7135saef-sas-logo-sas-logo-icon-in-vector-logo.png" style="padding-right:10px;" />
