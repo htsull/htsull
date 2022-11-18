@@ -5,22 +5,17 @@
 - 💞️ I’m looking to collaborate on ML/DL projects.
 - 📫 How to reach me : berthonysully@gmail.com
 
-<!---
-htsull/htsull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="LinkedIn"  height="26" width="26" src="https://cdn.simpleicons.org/linkedin/#0A66C2" style="padding-right:10;"/>](https://www.linkedin.com/in/b-sully/)
 [<img align="left" alt="Instagram"  height="26" width="26" src="https://cdn.simpleicons.org/instagram/#E4405F" style="padding-right:10;"/>](https://www.instagram.com/htsull_/)
 
 <br />
 <br />
 
-### Languages and Tools:
+## Languages and Tools :
 
-#### Now using : 
+### Now using : 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
@@ -33,8 +28,9 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <br />
+<br />
 
-#### Now learning :
+### Now learning :
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
@@ -47,8 +43,7 @@ You can click the Preview link to take a look at your changes.
 
  :zap: GitHub Stats
 
-  <img align="left" alt="htsull's GitHub Stats" src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&count_private=true&show_icons=true&theme=transparent" />
-
-
+  ![Sly's GitHub stats](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)
+  ![Sly's GitHub stats](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)
 
 
