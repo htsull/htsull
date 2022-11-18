@@ -18,7 +18,6 @@
 ### Now using : 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding-right:10px;" />
 <img align="left" alt="SAS" width="26px" src="https://www.liblogo.com/img-logo/sa7135saef-sas-logo-sas-logo-icon-in-vector-logo.png" style="padding-right:10px;" />
@@ -44,5 +43,10 @@
 
  :zap: GitHub Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)
+[![Sly's GitHub stats-Dark](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)
+[![Sly's GitHub stats-Light](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
