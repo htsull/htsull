@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Berthony Sully aka Sly.
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hi, I’m Berthony Sully aka Sly.
 
-- 👀 I’m interested in data science, more specifically data visualization and ML with R and Python
-- 🌱 I’m currently studying data science at Paris 1 Pantheon-Sorbonne University
+- 👀 I’m interested in data science, more specifically I want to solve real world problem with AI and I'm a strong beleiver that The Metaverse will take over the world.
+- 🌱 I recently graduated in M.Sc. Data Science from Paris 1 Pantheon-Sorbonne University.
 - 💞️ I’m looking to collaborate on ML/DL projects.
 - 📫 How to reach me : berthonysully@gmail.com
 
@@ -9,9 +9,8 @@
 ## Connect with me:
 
 [<img align="left" alt="LinkedIn" height="32" style="padding-right:10;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/b-sully/)
-[<img align="left" alt="Instagram" height="32" style="padding-right:10;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/htsull_/)
 [<img align="left" alt="GitHub" height="32" style="padding-right:10;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/htsull/)
-[<img align="left" alt="Twitter" height="32" style="padding-right:10;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=blue&style=for-the-badge&logo=twitter&logoColor=white">](https://mobile.twitter.com/htsull_)
+[<img align="left" alt="Instagram" height="32" style="padding-right:10;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/htsull_/)
 
 <br />
 <br />
@@ -23,7 +22,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
 <img align="left" alt="Scikit" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" style="padding-right:10px;" />
-<img align="left" alt="NLTK" width="26" src="https://avatars.githubusercontent.com/u/124114?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="Pytorch" width="26" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" style="padding-right:10px;" />
 <img align="left" alt="Tensorflow" width="26" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding-right:10px;" />
@@ -43,15 +41,10 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tailwind" width="26px" src="https://user-images.githubusercontent.com/31166555/202426495-449b77dc-d35f-4688-998b-6eafd8387bb3.png" style="padding-right:10px;" />
 
-
 <br />
 <br />
 
 ## **Download my resume/CV [here](https://github.com/htsull/Resume/raw/main/Mila_CV.pdf).**
-
-
-<br />
-<br />
 
  :zap: **GitHub Stats**
 
