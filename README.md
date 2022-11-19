@@ -8,9 +8,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="LinkedIn" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/b-sully/)
-[<img align="left" alt="GitHub" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/htsull/)
-[<img align="left" alt="Instagram" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/htsull_/)
+[<img align="center" alt="LinkedIn" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/b-sully/)
+[<img align="center" alt="GitHub" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/htsull/)
+[<img align="center" alt="Instagram" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/htsull_/)
 
 <br />
 <br />
