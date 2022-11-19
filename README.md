@@ -6,14 +6,16 @@
 - 📫 How to reach me : berthonysully@gmail.com
 
 
-## Connect with me:
+## Connect with me:  
 
-[<img align="center" alt="LinkedIn" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/b-sully/)
-[<img align="center" alt="GitHub" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/htsull/)
-[<img align="center" alt="Instagram" height="32" style="padding:10;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/htsull_/)
+[<img alt="LinkedIn" height="32" style="padding:10px; display:inline-block" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin">][linkedin]
+[<img alt="GitHub" height="32" style="padding:10px; display:inline-block" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white">][github]
+[<img alt="Instagram" height="32" style="padding:10px; display:inline-block" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">][instagram]
 
-<br />
-<br />
+
+<a href=[linkedin]><img src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin" 
+alt="IMAGE ALT TEXT HERE" height="32" border="10" /></a>
+
 
 ## **Languages and Tools :**
 
@@ -33,11 +35,10 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
 
-<br />
-<br />
 
 
 ### ***Now learning*** :
+
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
@@ -46,10 +47,15 @@
 <br />
 <br />
 
-## **Download my resume/CV [here](https://github.com/htsull/Resume/raw/main/Mila_CV.pdf).**
+## **Download my resume/CV [here](../Resume/Mila_CV.pdf).**
 
  :zap: **GitHub Stats**
 
 [![Sly's GitHub stats-Dark](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)
 [![Sly's GitHub stats-Light](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)
 
+
+
+[linkedin]: https://www.linkedin.com/in/b-sully/
+[github]: https://www.github.com/htsull/
+[instagram]:https://www.instagram.com/htsull_/
