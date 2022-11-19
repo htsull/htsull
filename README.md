@@ -66,11 +66,11 @@ alt="Instagram" height="32"/></a>
     <img style="padding:10px;" 
     src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only/">
 </a>
-
+<!-- 
 <a href=#>
     <img style="padding:10px;" 
     src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only/">
-</a>
+</a> -->
 </div>
 
 
