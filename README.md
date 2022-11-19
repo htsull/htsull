@@ -18,20 +18,20 @@
 ## **Languages and Tools :**
 
 ### ***Now using*** : 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
-<img align="left" alt="Scikit" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" style="padding-right:10px;" />
-<img align="left" alt="Pytorch" width="26" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" style="padding-right:10px;" />
-<img align="left" alt="Tensorflow" width="26" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" style="padding-right:10px;" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding-right:10px;" />
-<img align="left" alt="SAS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/31166555/202423758-ffb4e897-94de-4ada-b0a9-fb75a6dc11e2.png" style="padding-right:10px;" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="padding:10px;"/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding:10px;" />
+<img align="left" alt="Scikit" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" style="padding:10px;" />
+<img align="left" alt="Pytorch" width="26" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" style="padding:10px;" />
+<img align="left" alt="Tensorflow" width="26" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" style="padding:10px;" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="padding:10px;" />
+<img align="left" alt="SAS" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png" style="padding:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/31166555/202423758-ffb4e897-94de-4ada-b0a9-fb75a6dc11e2.png" style="padding:10px;" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" style="padding:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
 <br />
 <br />
 
