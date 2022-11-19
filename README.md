@@ -13,7 +13,6 @@
 [<img alt="Instagram" height="32" style="padding:10px; display:inline-block" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">][instagram] -->
 
 <div align="center">
-<!-- <div style="text-align:center;"> -->
 <a href=[linkedin]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin" 
 alt="LinkedIn" height="32"/></a>
 <a href=[github]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
@@ -27,7 +26,7 @@ alt="Instagram" height="32"/></a>
 ## **Languages and Tools :**
 ### ***Now using*** :
 
-<div style="text-align:center">
+<div align="center">
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
 <img alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="padding:10px;"/>
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding:10px;" />
@@ -47,7 +46,7 @@ alt="Instagram" height="32"/></a>
 
 ### ***Now learning*** :
 
-<div style="text-align:center">
+<div align="center">
 <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px;" />
 <img alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding:10px;" />
 <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:10px;" />
@@ -62,7 +61,7 @@ alt="Instagram" height="32"/></a>
 <!-- [![GitHub stats-Dark](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only)](https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only) -->
 
-<div style="text-align:center">
+<div align="center">
 <a href=#>
     <img style="padding:10px;" 
     src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=dark&hide=contribs,prs#gh-dark-mode-only/">
