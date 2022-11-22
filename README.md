@@ -71,11 +71,12 @@ alt="Instagram" height="32"/></a>
 </a> -->
 </div>
 
-
+## The mood right now <img src="https://media.tenor.com/QM_cFM0ZFx0AAAAi/dancing-guy-tanzen.gif" width="32px" height="32px" alt="dance">
 <div align="center">
 <a href=#>
     <img style="padding:10px;" 
-    src="https://spotify-github-profile.vercel.app/api/view?uid=31os3o343athz3c2dxcwietzdb4i&cover_image=true&theme=default&show_offline=false&background_color=121212">
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31os3o343athz3c2dxcwietzdb4i&cover_image=true&theme=default&show_offline=false&background_color=''">
+
 </a>
 </div>
 
