@@ -106,7 +106,7 @@ alt="Instagram" height="32"/></a>
 <summary> Other stats </Summary>
 
 
-<div align="center" style = "display : flex-1 ; padding : 5px; align-items : center">
+<div align="center" style = "display : block ; padding : 5px; align-items : center">
 <img style = "padding : 10px;" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=htsull&theme=transparent"/>
 
 <img style = "padding : 10px;" src ="https://github-readme-stats.vercel.app/api/wakatime?username=htsull&theme=transparent"/>
