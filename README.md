@@ -13,7 +13,6 @@
 [<img alt="Instagram" height="32" style="padding:10px; display:inline-block" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">][instagram] -->
 
 <div align="center">
-
 <a href=[github]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
 alt="GitHub" height="32" /></a>
 <a href=[linkedin]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin" 
@@ -22,7 +21,6 @@ alt="LinkedIn" height="32"/></a>
 alt="Instagram" height="32"/></a>
 </div>
 
-<br />
 
 ## **Languages and Tools :**
 ### ***Now using*** :
@@ -43,7 +41,6 @@ alt="Instagram" height="32"/></a>
 <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px;" />
 <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
 </div>
-<br />
 
 ### ***Now learning*** :
 
@@ -53,7 +50,7 @@ alt="Instagram" height="32"/></a>
 <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:10px;" />
 <img alt="Tailwind" width="26px" src="https://user-images.githubusercontent.com/31166555/202426495-449b77dc-d35f-4688-998b-6eafd8387bb3.png" style="padding:10px;" />
 </div>
-<br />
+
 
 ## **Download my resume/CV [here](../Resume/Mila_CV.pdf).**
 
@@ -72,6 +69,14 @@ alt="Instagram" height="32"/></a>
     <img style="padding:10px;" 
     src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only/">
 </a> -->
+</div>
+
+
+<div align="center">
+<a href=#>
+    <img style="padding:10px;" 
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31os3o343athz3c2dxcwietzdb4i&cover_image=true&theme=default&show_offline=false&background_color=121212">
+</a>
 </div>
 
 [linkedin]: https://www.linkedin.com/in/b-sully/
