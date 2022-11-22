@@ -40,15 +40,30 @@ alt="Instagram" height="32"/></a>
 <img alt="CSS3" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
 <img alt="Sass" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px;" />
 <img alt="JavaScript" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
+<img alt="Git" width="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" style="padding:10px;" />
 </div>
 
-### ***Now learning*** :
+### ***Now casually learning*** :
 
 <div align="center">
 <img alt="React" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px;" />
 <img alt="GraphQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding:10px;" />
 <img alt="Node.js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:10px;" />
 <img alt="Tailwind" width="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" style="padding:10px;" />
+<img alt="Docker" width="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" style="padding:10px;" />
+<img alt="GCP" width="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_gcp_icon_129965.png" style="padding:10px;" />
+<img alt="Databricks" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" style="padding:10px;" />
+</div>
+
+## Hobbies :
+<div align="center">
+<img alt="Netflix" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_logo_icon_170919.png" style="padding:10px;" />
+<img alt="Xbox" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/xbox_logo_icon_169692.png" style="padding:10px;" />
+<img alt="Youtube" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" style="padding:10px;" />
+<img alt="Minecraft" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" style="padding:10px;" />
+<img alt="Soccer" width="60px" src="https://cdn.icon-icons.com/icons2/1036/PNG/256/Soccer_Ball_icon-icons.com_76265.png" style="padding:10px;" />
+<img alt="Travel" width="60px" src="https://cdn.icon-icons.com/icons2/2240/PNG/512/world_travel_icon_134840.png" style="padding:10px;" />
+<img alt="Photgraphy" width="60px" src="https://cdn.icon-icons.com/icons2/1461/PNG/512/2998131-camera-photo-photography_99870.png" style="padding:10px;" />
 </div>
 
 
