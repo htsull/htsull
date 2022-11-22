@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hi, I’m Berthony Sully aka Sly.
 
 - 👀 I’m interested in data science, more specifically I want to solve real world problem with AI and I'm a strong beleiver that The Metaverse will take over the world.
-- 🌱 I recently graduated in M.Sc. Data Science from Paris 1 Pantheon-Sorbonne University.
+- 🌱 I recently graduated in M.Sc. Data Science from [Paris 1 Pantheon-Sorbonne University](https://www.pantheonsorbonne.fr/).
 - 💞️ I’m looking to collaborate on ML/DL projects.
 - 📫 How to reach me : berthonysully@gmail.com
 
@@ -101,4 +101,16 @@ alt="Instagram" height="32"/></a>
 [linkedin]: https://www.linkedin.com/in/b-sully/
 [github]: https://www.github.com/htsull/
 [instagram]:https://www.instagram.com/htsull_/
+
+<details>
+<summary> Other stats </Summary>
+
+<div align="center" style = "display : block; padding : 5px;">
+<img style = "padding : 10px;" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=htsull&theme=transparent"/>
+
+<img style = "padding : 10px;" src ="https://github-readme-stats.vercel.app/api/wakatime?username=htsull&theme=transparent"/>
+</div>
+
+</details>
+
 
