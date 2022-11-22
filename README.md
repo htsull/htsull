@@ -55,20 +55,8 @@ alt="Instagram" height="32"/></a>
 <img alt="Databricks" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" style="padding:10px;" />
 </div>
 
-## Hobbies :
-<div align="center">
-<img alt="Netflix" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_logo_icon_170919.png" style="padding:10px;" />
-<img alt="Spotify" width="60px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" style="padding:10px;" />
-<img alt="Xbox" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/xbox_logo_icon_169692.png" style="padding:10px;" />
-<img alt="Youtube" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" style="padding:10px;" />
-<img alt="Minecraft" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" style="padding:10px;" />
-<img alt="Soccer" width="60px" src="https://cdn.icon-icons.com/icons2/1036/PNG/256/Soccer_Ball_icon-icons.com_76265.png" style="padding:10px;" />
-<img alt="Travel" width="60px" src="https://cdn.icon-icons.com/icons2/2240/PNG/512/world_travel_icon_134840.png" style="padding:10px;" />
-<img alt="Photgraphy" width="60px" src="https://cdn.icon-icons.com/icons2/1461/PNG/512/2998131-camera-photo-photography_99870.png" style="padding:10px;" />
-</div>
 
-
-## **Download my resume/CV [here](../Resume/Mila_CV.pdf).**
+# **Download my resume/CV <img alt="Right" height="25px" src="https://cdn.icon-icons.com/icons2/3571/PNG/512/arrows_forward_right_next_icon_225565.png"/> [here](../Resume/Mila_CV.pdf).**
 
  :zap: **GitHub Stats**
 
@@ -86,6 +74,21 @@ alt="Instagram" height="32"/></a>
     src="https://github-readme-stats-htsull.vercel.app/api?username=htsull&show_icons=true&theme=default&hide=contribs,prs#gh-light-mode-only/">
 </a> -->
 </div>
+
+# Hobbies :
+<div align="center">
+<img alt="Netflix" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_logo_icon_170919.png" style="padding:10px;" />
+<img alt="Spotify" width="60px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" style="padding:10px;" />
+<img alt="Xbox" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/xbox_logo_icon_169692.png" style="padding:10px;" />
+<img alt="Youtube" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" style="padding:10px;" />
+<img alt="Minecraft" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" style="padding:10px;" />
+<img alt="Soccer" width="60px" src="https://cdn.icon-icons.com/icons2/1036/PNG/256/Soccer_Ball_icon-icons.com_76265.png" style="padding:10px;" />
+<img alt="Travel" width="60px" src="https://cdn.icon-icons.com/icons2/2240/PNG/512/world_travel_icon_134840.png" style="padding:10px;" />
+<img alt="Photgraphy" width="60px" src="https://cdn.icon-icons.com/icons2/1461/PNG/512/2998131-camera-photo-photography_99870.png" style="padding:10px;" />
+</div>
+
+
+
 
 ## The mood right now <img src="https://media.tenor.com/QM_cFM0ZFx0AAAAi/dancing-guy-tanzen.gif" width="60px" height="60px" alt="dance">
 <div align="center">
