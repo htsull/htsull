@@ -14,11 +14,11 @@
 
 <div align="center">
 <a href=[github]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub" height="60" /></a>
+alt="GitHub" height="32" /></a>
 <a href=[linkedin]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin" 
-alt="LinkedIn" height="60"/></a>
+alt="LinkedIn" height="32"/></a>
 <a href=[instagram]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" 
-alt="Instagram" height="60"/></a>
+alt="Instagram" height="32"/></a>
 </div>
 
 
