@@ -75,7 +75,7 @@ alt="Instagram" height="32"/></a>
 <div align="center">
 <a href=#>
     <img style="padding:10px;" 
-    src="https://spotify-github-profile.vercel.app/api/view?uid=31os3o343athz3c2dxcwietzdb4i&cover_image=true&theme=default&show_offline=false&background_color=">
+    src="https://spotify-github-profile.vercel.app/api/view?uid=31os3o343athz3c2dxcwietzdb4i&cover_image=true&theme=default&show_offline=false&background_color=#0A0C10">
 
 </a>
 </div>
