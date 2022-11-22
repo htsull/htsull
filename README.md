@@ -58,6 +58,7 @@ alt="Instagram" height="32"/></a>
 ## Hobbies :
 <div align="center">
 <img alt="Netflix" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netflix_logo_icon_170919.png" style="padding:10px;" />
+<img alt="Spotify" width="60px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png" style="padding:10px;" />
 <img alt="Xbox" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/xbox_logo_icon_169692.png" style="padding:10px;" />
 <img alt="Youtube" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png" style="padding:10px;" />
 <img alt="Minecraft" width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" style="padding:10px;" />
