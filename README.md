@@ -105,6 +105,7 @@ alt="Instagram" height="32"/></a>
 <details>
 <summary> Other stats </Summary>
 
+
 <div align="center" style = "display : block; padding : 5px;">
 <img style = "padding : 10px;" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=htsull&theme=transparent"/>
 
