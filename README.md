@@ -57,7 +57,7 @@ alt="Instagram" height="32"/></a>
 </div>
 
 
-# <img alt="tools" width="25px" src="https://cdn.icon-icons.com/icons2/886/PNG/512/file_pdf_download_icon-icons.com_68954.png" style="padding-right:10px;"/>  **Download my resume/CV <img alt="Right" height="25px" src="https://cdn.icon-icons.com/icons2/3571/PNG/512/arrows_forward_right_next_icon_225565.png"/> [here](../Resume/Mila_CV.pdf).**
+# <img alt="tools" width="25px" src="https://cdn.icon-icons.com/icons2/886/PNG/512/file_pdf_download_icon-icons.com_68954.png" style="padding-right:10px;"/>  **Download my resume/CV <img alt="Right" height="25px" src="https://cdn.icon-icons.com/icons2/3571/PNG/512/arrows_forward_right_next_icon_225565.png"/> [here](https://github.com/htsull/Resume/raw/main/Mila_CV.pdf).**
 
  :zap: **GitHub Stats**
 
