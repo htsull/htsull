@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hi, I’m Berthony Sully aka Sly.
 
-- 👀 I’m interested in data science, more specifically I want to solve real world problem with AI and I'm a strong beleiver that The Metaverse will take over the world.
+- 👀 I’m interested in data science, more specifically I want to solve real world problem with AI and I'm a strong believer that The Metaverse will take over the world.
 - 🌱 I recently graduated in [M.Sc. Data Science](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-traitement-de-l-information-et-data-science-en-entreprise-tide-formation-initiale-et-apprentissage-KBUREJV4.html) from [Paris 1 Pantheon-Sorbonne University](https://www.pantheonsorbonne.fr/).
 - 💞️ I’m looking to collaborate on ML/DL projects.
 - 📫 How to reach me : berthonysully@gmail.com
