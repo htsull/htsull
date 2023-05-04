@@ -1,6 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hi, I’m Berthony Sully aka Sly.
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hi, I’m Berthony (Sly) Sully.
 
-- 👀 I’m interested in data science, more specifically I want to solve real world problem with AI and I'm a strong believer that The Metaverse will take over the world.
+- 👀 I’m interested in various topics, such as data engineering, data science and data modelling, more specifically I want to solve real world problem with ML/AI.
 - 🌱 I recently graduated in [M.Sc. Data Science](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-econometrie-statistiques-KBURDRPJ/master-parcours-traitement-de-l-information-et-data-science-en-entreprise-tide-formation-initiale-et-apprentissage-KBUREJV4.html) from [Paris 1 Pantheon-Sorbonne University](https://www.pantheonsorbonne.fr/).
 - 💞️ I’m looking to collaborate on ML/DL projects.
 - 📫 How to reach me : berthonysully@gmail.com
@@ -57,7 +57,7 @@ alt="Instagram" height="32"/></a>
 </div>
 
 
-# <img alt="tools" width="25px" src="https://cdn.icon-icons.com/icons2/886/PNG/512/file_pdf_download_icon-icons.com_68954.png" style="padding-right:10px;"/>  **Download my resume/CV <img alt="Right" height="25px" src="https://cdn.icon-icons.com/icons2/3571/PNG/512/arrows_forward_right_next_icon_225565.png"/> [here](https://github.com/htsull/Resume/raw/main/Mila_CV.pdf).**
+# <img alt="tools" width="25px" src="https://cdn.icon-icons.com/icons2/886/PNG/512/file_pdf_download_icon-icons.com_68954.png" style="padding-right:10px;"/>  **Download my resume [here](https://github.com/htsull/Resume/raw/main/Mila_CV.pdf).**
 
  :zap: **GitHub Stats**
 
