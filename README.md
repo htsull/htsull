@@ -15,7 +15,7 @@
 <div align="center">
 <a href=[github]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
 alt="GitHub" height="32" /></a>
-<a href=[linkedin]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=Berthony Sully&color=0A66C2&style=for-the-badge&logo=linkedin" 
+<a href=[linkedin]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=BSully&color=0A66C2&style=for-the-badge&logo=linkedin" 
 alt="LinkedIn" height="32"/></a>
 <a href=[instagram]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" 
 alt="Instagram" height="32"/></a>
@@ -92,27 +92,11 @@ alt="Instagram" height="32"/></a>
 
 
 ## The mood right now <img src="https://media.tenor.com/QM_cFM0ZFx0AAAAi/dancing-guy-tanzen.gif" width="60px" height="60px" alt="dance">
-<div align="center">
-<a href=#>
-    <img style="width : 60%;" 
-    src="https://spotify-github-profile.vercel.app/api/view?uid=31os3o343athz3c2dxcwietzdb4i&cover_image=true&theme=default&show_offline=true&background_color=0A0C10">
-</a>
-</div>
 
 [linkedin]: https://www.linkedin.com/in/bsullym/
 [github]: https://www.github.com/htsull/
 [instagram]:https://www.instagram.com/htsull_/
 
-<details>
-<summary> Other stats </Summary>
 
-
-<div align="center" style = "display : block ; padding : 5px; align-items : center">
-<img style = "padding : 10px;" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=htsull&theme=transparent"/>
-
-<img style = "padding : 10px;" src ="https://github-readme-stats.vercel.app/api/wakatime?username=htsull&theme=transparent"/>
-</div>
-
-</details>
 
 
