@@ -13,11 +13,16 @@
 [<img alt="Instagram" height="60" style="padding:10px; display:inline-block" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">][instagram] -->
 
 <div align="center">
-<a href=[github](https://www.github.com/htsull/)><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub" height="32" /></a>
-<a href=[linkedin](https://www.linkedin.com/in/bsullym/)><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=BSully&color=0A66C2&style=for-the-badge&logo=linkedin" 
-alt="LinkedIn" height="32"/></a>
+  <a href="https://www.github.com/htsull/" target="_blank">
+    <img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/bsullym/" target="_blank">
+    <img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=BSully&color=0A66C2&style=for-the-badge&logo=linkedin"
+    alt="LinkedIn" height="32"/>
+  </a>
 </div>
+
 
 
 ## <img alt="tools" width="20px" src="https://cdn.icon-icons.com/icons2/1860/PNG/512/codinghtml_118066.png" style="padding-right:10px;" />**Languages and Tools :**
