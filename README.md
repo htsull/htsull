@@ -13,12 +13,10 @@
 [<img alt="Instagram" height="60" style="padding:10px; display:inline-block" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white">][instagram] -->
 
 <div align="center">
-<a href=[github]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
+<a href=[github](https://www.github.com/htsull/)><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull&color=000&style=for-the-badge&logo=github&logoColor=white"
 alt="GitHub" height="32" /></a>
-<a href=[linkedin]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=BSully&color=0A66C2&style=for-the-badge&logo=linkedin" 
+<a href=[linkedin](https://www.linkedin.com/in/bsullym/)><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=BSully&color=0A66C2&style=for-the-badge&logo=linkedin" 
 alt="LinkedIn" height="32"/></a>
-<a href=[instagram]><img style="padding:10px;" src="https://img.shields.io/static/v1?label=&message=htsull_&color=E4405F&style=for-the-badge&logo=Instagram&logoColor=white" 
-alt="Instagram" height="32"/></a>
 </div>
 
 
@@ -93,9 +91,6 @@ alt="Instagram" height="32"/></a>
 
 ## The mood right now <img src="https://media.tenor.com/QM_cFM0ZFx0AAAAi/dancing-guy-tanzen.gif" width="60px" height="60px" alt="dance">
 
-[linkedin]: https://www.linkedin.com/in/bsullym/
-[github]: https://www.github.com/htsull/
-[instagram]:https://www.instagram.com/htsull_/
 
 
 
