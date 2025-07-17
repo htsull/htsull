@@ -99,7 +99,7 @@ alt="Instagram" height="32"/></a>
 </a>
 </div>
 
-[linkedin]: https://www.linkedin.com/in/b-sully/
+[linkedin]: https://www.linkedin.com/in/bsullym/
 [github]: https://www.github.com/htsull/
 [instagram]:https://www.instagram.com/htsull_/
 
